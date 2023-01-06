@@ -16,7 +16,7 @@ const Portfolio = () => {
         {
             id: 2,
             src: longestVowel,
-            link: 'https://github.com/laithalani/longest-vowel-word-in-a-sentence.git',
+            link: 'https://63b7a11139f2fc68a2fa2da4--fanciful-gingersnap-e10692.netlify.app/',
             code: 'https://github.com/laithalani/longest-vowel-word-in-a-sentence.git',
         },
         {
