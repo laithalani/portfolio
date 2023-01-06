@@ -22,8 +22,8 @@ const Portfolio = () => {
         {
             id: 3,
             src: portfolio1,
-            link: 'https://www.laithalani.com',
-            code: 'https://github.com/laithalani/longest-vowel-word-in-a-sentence.git',
+            link: 'https://laithalani.com/',
+            code: 'https://github.com/laithalani/portfolio.git',
         },
     ];
 
