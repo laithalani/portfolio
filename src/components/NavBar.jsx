@@ -32,9 +32,12 @@ const NavBar = () => {
   return (
     <div className='flex justify-between px-4 items-center w-full h-20 text-white fixed bg-black'>
         <div>
+            <a href='https://laithalani.com'>
+
             <h1 className='text-5xl font-signature ml-2'>
                 Laith
             </h1>
+            </a>
         </div>
         <ul className='md:flex hidden'>
             
